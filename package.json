@@ -1,0 +1,35 @@
+{
+  "name": "aio-deps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jquery": "^3.6.1",
+    "axios": "^1.4.0",
+    "axios-mock-adapter": "^2.1.0",
+    "animejs": "^3.2.1",
+    "@zxing/library": "^0.21.3",
+    "@zxing/browser": "^0.1.5",
+    "prismjs": "^1.29.0",
+    "leaflet": "^1.9.4",
+    "react-leaflet": "^4.2.1",
+    "react-leaflet-cluster": "^2.1.0",
+    "@dnd-kit/core": "^6.3.1",
+    "@dnd-kit/sortable": "^10.0.0",
+    "@dnd-kit/utilities": "^3.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadFeiz/aio-deps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadFeiz/aio-deps/issues"
+  },
+  "homepage": "https://github.com/mohammadFeiz/aio-deps#readme"
+}
